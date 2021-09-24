@@ -1,0 +1,10 @@
+{
+  "name": "Link Redirect",
+  "repository": "https://github.com/mikehale/link-redirect",
+  "env": {
+    "REDIRECT_TARGET": {
+      "description": "url to redirect to",
+      "required": true
+    }
+  }
+}
